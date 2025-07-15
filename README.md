@@ -1,7 +1,12 @@
 # My Python Learning Journey 🚀
 
-## 📅 Weekly Progress
-- [x] Week 1: Python basics (variables, operators, if-else)
-- [ ] Week 2: Strings, Lists
-- [ ] Week 3: Loops, Functions
-...
+## 🚀 About
+This repo tracks my 2-month Python learning journey week by week using Jupyter Notebooks.
+
+## 🔗 Connect with me
+- [**LinkedIn**](https://www.linkedin.com/in/tushar-bagri1423)
+
+## 📌 Highlights
+- ✅ Weekly progress tracking
+- ✅ Clean, well-organized notebooks
+- ✅ Public portfolio for recruiters
