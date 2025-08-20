@@ -46,3 +46,22 @@ This repo tracks my 2-month Python learning journey week by week using Jupyter N
 - Reverse a String
 - Palindrome Checker
 - Word Counter
+
+##  Week 3 - Object-Oriented Programming (OOP)
+
+### 🔹 Concepts Covered:
+
+- Classes and Objects
+- __init__() Constructor
+- Instance and Class Variables
+- methods (instance, class, static)
+- Inheritance (Single, Multiple, Multilevel)
+- Method Overriding
+- Encapsulation & Abstraction
+- Polymorphism
+
+ ### 🧠 Practice Programs:
+- Student Management System using Classes
+- Bank Account System (deposit, withdraw, balance check)
+
+
