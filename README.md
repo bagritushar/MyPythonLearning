@@ -10,6 +10,24 @@ This repo tracks my 2-month Python learning journey week by week using Jupyter N
 - ✅ Weekly progress tracking
 - ✅ Clean, well-organized notebooks
 - ✅ Public portfolio for recruiters
+  ## week 1 - Python Basic (full intro)
+  
+  ### 🔹 Concepts Covered:
+  - Introduction to python
+  - variables, Data Type, (Int,Float,Str,Bool)
+  - Input/Output
+  - Tpyecasting
+  - Operators(Arithmetic,Logical, Comparison)
+  - If,elif,else, (Decision making)
+  - Loops (for,While)
+
+  ### 🧠 Practice Programs:
+  - Number is even/odd
+  - Prime number checker
+  - Factorial using Loop
+  - Table (2 to 10)  
+  
+  
   
 ## 📘 Week 2 - Python Advanced Topics
 
