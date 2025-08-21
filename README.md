@@ -1,3 +1,18 @@
+📌 My Python & ML Learning Journey
+
+This repository documents my 2-month journey of learning Python and Machine Learning, starting from the basics of Python programming to the fundamentals of Machine Learning.
+The learning path is structured week by week, covering important concepts, practice programs, and mini-projects.
+
+The goal of this repository is to:
+
+Build strong Python foundations 🐍
+
+Learn to use libraries like NumPy, Pandas, Matplotlib 📊
+
+Explore Machine Learning basics 🤖
+
+Work on beginner-friendly projects like House Price Prediction, Iris Classification, Titanic Survival 🚀
+
 # My Python Learning Journey 🚀
 
 ## 🚀 About
@@ -5,6 +20,24 @@ This repo tracks my 2-month Python learning journey week by week using Jupyter N
 
 ## 🔗 Connect with me
 - [**LinkedIn**](https://www.linkedin.com/in/tushar-bagri1423)
+
+  ## 📂 Weekly Progress
+
+- [Week 1 – Python Basics](./Week1/Week1.ipynb)  
+- [Week 2 – Python Advanced](./Week2/Week2.ipynb)  
+- [Week 3 – OOP Concepts](./Week3/Week3.ipynb)  
+- [Week 4 – NumPy & Pandas (with Practice Projects)](./Week4/Week4.ipynb)  
+  - ✅ NumPy basics, arrays, slicing  
+  - ✅ Pandas Series & DataFrames  
+  - ✅ Projects inside notebook: CSV Handling, Data Cleaning  
+- [Week 5 – Machine Learning Basics (with Mini Projects)](./Week5/Week5.ipynb)  
+  - ✅ ML Introduction, Types, Workflow  
+  - ✅ Algorithms: Linear Regression, KNN, Decision Tree  
+  - ✅ Projects inside notebook: House Price Prediction, Iris Classification, Titanic Survival  
+- Week 6 – ML Advanced (Coming Soon ⏳)  
+- Week 7 – AI Concepts (Planned)  
+- Week 8 – Final Revision & Resume Prep (Planned)  
+
 
 ## 📌 Highlights
 - ✅ Weekly progress tracking
