@@ -23,7 +23,7 @@ This repo tracks my 2-month Python learning journey week by week using Jupyter N
 
   ## 📂 Weekly Progress
 
-- [Week 1 – Python Basics]((https://github.com/bagritushar/MyPythonLearning/blob/main/Week1_PythonBasics.ipynb))  
+- [Week 1 – Python Basics] (Week1_PythonBasics.ipynb)
 - [Week 2 – Python Advanced](./Week2/Week2.ipynb)  
 - [Week 3 – OOP Concepts](./Week3/Week3.ipynb)  
 - [Week 4 – NumPy & Pandas (with Practice Projects)](./Week4/Week4.ipynb)  
