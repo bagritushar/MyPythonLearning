@@ -1,4 +1,4 @@
-📌 My Python & ML Learning Journey
+## 📌 My Python & ML Learning Journey
 
 This repository documents my 2-month journey of learning Python and Machine Learning, starting from the basics of Python programming to the fundamentals of Machine Learning.
 The learning path is structured week by week, covering important concepts, practice programs, and mini-projects.
@@ -96,5 +96,87 @@ This repo tracks my 2-month Python learning journey week by week using Jupyter N
  ### 🧠 Practice Programs:
 - Student Management System using Classes
 - Bank Account System (deposit, withdraw, balance check)
+
+ ## Week 4 – NumPy & Pandas
+
+## 🔹 Concepts Covered:
+
+- NumPy Arrays (creation, indexing, slicing, reshaping)
+- Mathematical Operations with NumPy
+- Pandas Series & DataFrame
+- Data Cleaning (handling missing values, duplicates)
+- Data Selection & Filtering
+- GroupBy, Aggregation & Sorting
+- Merging, Joining & Concatenation
+
+## 🧠 Practice Programs:
+
+- Student Score Analysis with Pandas
+- Sales Data Analysis (CSV import & analysis)
+- NumPy Matrix Operations
+
+## Week 5 – Machine Learning Basics
+
+## 🔹 Concepts Covered:
+
+- Introduction to Machine Learning
+- Types of ML (Supervised, Unsupervised, Reinforcement)
+- Regression vs Classification
+- Linear Regression (theory + implementation)
+- Train/Test Split, Model Evaluation (MSE, R²)
+- Basic Data Preprocessing (scaling, normalization)
+
+## 🧠 Practice Projects:
+
+- House Price Prediction (Linear Regression)
+- Iris Flower Classification
+- Titanic Survival Prediction
+
+## Week 6 – Machine Learning Advanced
+
+## 🔹 Concepts Covered:
+
+- Data preprocessing (Missing values, Label encoding)
+- Train/Test Split,Cross-Validation)
+- Accurancy,confusion matrix, precision/Recall)
+- Save Model (Pickle)
+
+## 🧠 Practice Projects:
+- Flight Delay Predictor
+- Student Marks Predictor
+
+
+## Week 7 – Artificial Intelligence Concepts
+
+## 🔹 Concepts Covered:
+
+- Basics of Artificial Intelligence
+- Difference: AI vs ML vs DL
+- Search algo (BFS, DFS)\
+- Game AI (Minimax, Alpha - Beta)
+- Neural Networks (Introduction)
+- Basics of Natural Language Processing (NLP)
+- Real-Life Applications of AI
+
+## 🧠 Practice Projects:
+
+- AI Chatbot using python + NLP
+- Emotion Detector using ML 
+
+## Week 8 – Revision & Resume Preparation
+
+## 🔹 Activities:
+
+- Complete Revision of Python & ML concepts
+- Hands-on practice of previous projects
+- Error debugging and optimization
+- Resume Building (AI/ML focused)
+- GitHub Portfolio Finalization
+- Preparing for Interviews (Q/A practice)
+
+## 🧠 Final Task:
+
+- Document all projects in GitHub
+- Prepare README with links to all notebooks & projects
 
 
