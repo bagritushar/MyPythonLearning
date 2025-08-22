@@ -30,7 +30,7 @@ This repo tracks my 2-month Python learning journey week by week using Jupyter N
   - ✅ NumPy basics, arrays, slicing  
   - ✅ Pandas Series & DataFrames  
   - ✅ Projects inside notebook: CSV Handling, Data Cleaning  
-- [Week 5 – Machine Learning Basics (with Mini Projects)](./Week5/Week5.ipynb)  
+- [Week 5 – Machine Learning Basics (with Mini Projects)](with Practice Projects)(https://github.com/bagritushar/MyPythonLearning/blob/main/Week5.ipynb))  
   - ✅ ML Introduction, Types, Workflow  
   - ✅ Algorithms: Linear Regression, KNN, Decision Tree  
   - ✅ Projects inside notebook: House Price Prediction, Iris Classification, Titanic Survival  
