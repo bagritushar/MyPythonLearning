@@ -42,7 +42,16 @@ This repo tracks my 2-month Python learning journey week by week using Jupyter N
 -✅ Train/Test Split,Cross-Validation)
 -✅Accurancy,confusion matrix, precision/Recall)
 -✅Save Model (Pickle)
-- Week 7 – AI Concepts (Planned)  
+
+- Week 7 – AI Concepts
+-✅Basics of Artificial Intelligence
+-✅Difference: AI vs ML vs DL
+-✅Search algo (BFS, DFS)\
+-✅Game AI (Minimax, Alpha - Beta)
+-✅Neural Networks (Introduction)
+-✅Basics of Natural Language Processing (NLP)
+-✅Real-Life Applications of AI
+ 
 - Week 8 – Final Revision & Resume Prep (Planned)  
 
 
