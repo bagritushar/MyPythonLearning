@@ -36,8 +36,6 @@ This repo tracks my 2-month Python learning journey week by week using Jupyter N
   - ✅ Projects inside notebook: House Price Prediction, Iris Classification, Titanic Survival  
 - Week 6 – ML Advanced
 -  https://github.com/bagritushar/MyPythonLearning/blob/main/Week%206.ipynb
-
-
 -✅  Data preprocessing (Missing values, Label encoding)
 -✅ Train/Test Split,Cross-Validation)
 -✅Accurancy,confusion matrix, precision/Recall)
@@ -52,7 +50,8 @@ This repo tracks my 2-month Python learning journey week by week using Jupyter N
 -✅Basics of Natural Language Processing (NLP)
 -✅Real-Life Applications of AI
  
-- Week 8 – Final Revision & Resume Prep (Planned)  
+- Week 8 – Final Revision & Resume Prep
+-✅ Done 
 
 
 ## 📌 Highlights
