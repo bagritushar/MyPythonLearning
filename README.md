@@ -27,33 +27,10 @@ This repo tracks my 2-month Python learning journey week by week using Jupyter N
 - [Week 2 – Python Advanced](with Practice Projects)](https://github.com/bagritushar/MyPythonLearning/blob/main/Week%202.ipynb)  
 - [Week 3 – OOP Concepts](with Practice Projects)(https://github.com/bagritushar/MyPythonLearning/blob/main/week3.ipynb) 
 - [Week 4 – NumPy & Pandas (with Practice Projects)(https://github.com/bagritushar/MyPythonLearning/blob/main/Week4.ipynb)
-  - ✅ NumPy basics, arrays, slicing  
-  - ✅ Pandas Series & DataFrames  
-  - ✅ Projects inside notebook: CSV Handling, Data Cleaning  
-- [Week 5 – Machine Learning Basics (with Mini Projects)](with Practice Projects)(https://github.com/bagritushar/MyPythonLearning/blob/main/Week5.ipynb))  
-  - ✅ ML Introduction, Types, Workflow  
-  - ✅ Algorithms: Linear Regression, KNN, Decision Tree  
-  - ✅ Projects inside notebook: House Price Prediction, Iris Classification, Titanic Survival  
-- Week 6 – ML Advanced
-- https://github.com/bagritushar/MyPythonLearning/blob/main/Week%206.ipynb
-    -✅  Data preprocessing (Missing values, Label encoding)
-    -✅ Train/Test Split,Cross-Validation)
-    -✅Accurancy,confusion matrix, precision/Recall)
-    -✅Save Model (Pickle)
-
-- Week 7 – AI Concepts
-   -✅Basics of Artificial Intelligence
-   -✅Difference: AI vs ML vs DL
-   -✅Search algo (BFS, DFS)
-   -✅Game AI (Minimax, Alpha - Beta)
-   -✅Neural Networks (Introduction)
-   -✅Basics of Natural Language Processing (NLP)
-   -✅Real-Life Applications of AI
- 
+- [Week 5 – Machine Learning Basics (with Mini Projects)](with Practice Projects)(https://github.com/bagritushar/MyPythonLearning/blob/main/Week5.ipynb))   
+- [Week 6 – ML Advanced (https://github.com/bagritushar/MyPythonLearning/blob/main/Week%206.ipynb)]
+- Week 7 – AI Concepts 
 - Week 8 – Final Revision & Resume Prep
-  -✅ Done 
-
-
 ## 📌 Highlights
 - ✅ Weekly progress tracking
 - ✅ Clean, well-organized notebooks
