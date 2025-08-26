@@ -35,23 +35,23 @@ This repo tracks my 2-month Python learning journey week by week using Jupyter N
   - ✅ Algorithms: Linear Regression, KNN, Decision Tree  
   - ✅ Projects inside notebook: House Price Prediction, Iris Classification, Titanic Survival  
 - Week 6 – ML Advanced
--  https://github.com/bagritushar/MyPythonLearning/blob/main/Week%206.ipynb
--✅  Data preprocessing (Missing values, Label encoding)
--✅ Train/Test Split,Cross-Validation)
--✅Accurancy,confusion matrix, precision/Recall)
--✅Save Model (Pickle)
+- https://github.com/bagritushar/MyPythonLearning/blob/main/Week%206.ipynb
+    -✅  Data preprocessing (Missing values, Label encoding)
+    -✅ Train/Test Split,Cross-Validation)
+    -✅Accurancy,confusion matrix, precision/Recall)
+    -✅Save Model (Pickle)
 
 - Week 7 – AI Concepts
--✅Basics of Artificial Intelligence
--✅Difference: AI vs ML vs DL
--✅Search algo (BFS, DFS)\
--✅Game AI (Minimax, Alpha - Beta)
--✅Neural Networks (Introduction)
--✅Basics of Natural Language Processing (NLP)
--✅Real-Life Applications of AI
+   -✅Basics of Artificial Intelligence
+   -✅Difference: AI vs ML vs DL
+   -✅Search algo (BFS, DFS)
+   -✅Game AI (Minimax, Alpha - Beta)
+   -✅Neural Networks (Introduction)
+   -✅Basics of Natural Language Processing (NLP)
+   -✅Real-Life Applications of AI
  
 - Week 8 – Final Revision & Resume Prep
--✅ Done 
+  -✅ Done 
 
 
 ## 📌 Highlights
