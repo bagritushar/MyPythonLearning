@@ -29,8 +29,9 @@ This repo tracks my 2-month Python learning journey week by week using Jupyter N
 - [Week 4 – NumPy & Pandas (with Practice Projects)(https://github.com/bagritushar/MyPythonLearning/blob/main/Week4.ipynb)
 - [Week 5 – Machine Learning Basics (with Mini Projects)](with Practice Projects)(https://github.com/bagritushar/MyPythonLearning/blob/main/Week5.ipynb))   
 - [Week 6 – ML Advanced (https://github.com/bagritushar/MyPythonLearning/blob/main/Week%206.ipynb)]
-- Week 7 – AI Concepts 
-- Week 8 – Final Revision & Resume Prep
+- Week 7 – AI Concepts
+- https://github.com/bagritushar/MyPythonLearning/blob/main/Week7.ipynb
+- Week 8 – Done 
 ## 📌 Highlights
 - ✅ Weekly progress tracking
 - ✅ Clean, well-organized notebooks
